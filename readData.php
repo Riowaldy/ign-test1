@@ -9,6 +9,11 @@
     }else{
         while($value = mysqli_fetch_array($result))
         {
+            if($value['need_pickup'] == 1){
+                $npick = "true";
+            }else{
+                $npick = "false";
+            }
             echo '
                 <tr>
                     <td>'.$value['nama'].'</td>
@@ -17,7 +22,7 @@
                     <td>'.$value['country'].'</td>
                     <td>'.$value['phone'].'</td>
                     <td>'.$value['registration_date'].'</td>
-                    <td>'.$value['need_pickup'].'</td>
+                    <td>'.$npick.'</td>
                     <td>'.$value['motivation_letter'].'</td>
                 </tr>
             ';

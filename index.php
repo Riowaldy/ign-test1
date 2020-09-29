@@ -9,6 +9,7 @@
 <body>
     <div class="container">
         <h2>Data Pendaftar</h2>
+        <span><a href="api.php" type="button"><button>Tambah</button></a></span>
         <div class="table">
             <table>
                 <thead>

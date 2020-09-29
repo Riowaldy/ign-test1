@@ -8,7 +8,7 @@ $conn = new mysqli("localhost","root","","test");
 ```
 
 ## Migrasi
-Untuk menambahkan create table dapat menjalankan `http://localhost/ign-test1/createTable.php` <br>
+Untuk menambahkan create table dapat mengakses `http://localhost/ign-test1/createTable.php` <br>
 Jika sukses maka akan muncul pesan
 ```json
 {
@@ -21,3 +21,6 @@ Jika gagal maka akan muncul pesan
     statusCode: 201
 }  
 ```
+
+## Show Data
+Untuk menampilkan tabel pendaftar dapat mengakses `http://localhost/ign-test1/index.php`
