@@ -1,0 +1,33 @@
+[
+    {
+      "nama": "Diego Farminggo",
+      "email": "diegofar@gmail.com",
+      "birth_date": "1998-02-20",
+      "country": "Mexico",
+      "phone": "+526112611122",
+      "registration_date": "2019-09-21",
+      "need_pickup": true,
+      "motivation_letter": "The central function of a motivational letter is to convince the admissions team at the university of your choice to offer you a place, or invite you to interview. Make sure that the letter is structured in such a way that it serves this purpose – it is usual to conclude a motivational letter by asking directly that you be admitted or invited for interview, depending upon what the next step of the admissions process is. Equally important is the calibre of your written language; if your motivational letter is riddled with grammatical errors or spelling mistakes, or doesn’t make sense, the university will almost certainly refuse to admit you. A great starting point is to look at some templates for motivational letters in your chosen field, to see how they are structured, and what key points you need to cover."
+    },
+    {
+      "nama": "Neil Azhar",
+      "email": "neil@gmail.com",
+      "birth_date": "1997-04-12",
+      "country": "Pakistan",
+      "phone": "+516112611122",
+      "registration_date": "2019-09-22",
+      "need_pickup": true,
+      "motivation_letter": "Equally important is the calibre of your written language; if your motivational letter is riddled with grammatical errors or spelling mistakes, or doesn’t make sense, the university will almost certainly refuse to admit you. A great starting point is to look at some templates for motivational letters in your chosen field, to see how they are structured, and what key points you need to cover."
+    },
+    {
+      "nama": "Budi Hasibuan",
+      "email": "budihas@gmail.com",
+      "birth_date": "1995-04-02",
+      "country": "Indonesia",
+      "phone": "+626112611122",
+      "registration_date": "2019-09-22",
+      "need_pickup": true,
+      "motivation_letter": "A great starting point is to look at some templates for motivational letters in your chosen field, to see how they are structured, and what key points you need to cover."
+    }
+  ]
+  
