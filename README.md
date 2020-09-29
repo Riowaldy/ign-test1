@@ -2,7 +2,7 @@
 IGN Test 1 API.
 
 ## Konfigurasi
-Untuk mengaktifkan koneksi database dapat mengganti pada file `http://localhost/ign-test1/konfigurasi.php`
+Untuk mengaktifkan koneksi database dapat mengganti pada file `konfigurasi.php`
 ```php
 $conn = new mysqli("localhost","root","","test");
 ```
